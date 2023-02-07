@@ -1,2 +1,5 @@
 /server/node_modules/
 /frontend/dist/
+/frontend/.angular/
+/frontend/.vscode/
+/frontend/node_modules/
